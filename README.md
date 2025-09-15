@@ -1,7 +1,8 @@
 # SQL Data Warehouse project
 
-Welcome to Data Warehouse repository
-This project demonstrates a comprehensive data warehousing, from building a data warehouse.   Designed a portfolio project, it highlights induistry best pratices in data engineering.
+Welcome to Data Warehouse repository!
+
+This project demonstrates a comprehensive data warehousing, from building a data warehouse.  Designed a portfolio project, it highlights induistry best pratices in data engineering.
 
 ## Project requirements
 
